@@ -13,14 +13,19 @@ export default makeStyles({
   fullHeightCard: {
     height: '100%',
   },
-  card: {
-    display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'space-between',
-    borderRadius: '15px',
-    height: '100%',
-    position: 'relative',
-  },
+card: {
+  display: 'flex',
+  flexDirection: 'column',
+  justifyContent: 'space-between',
+  borderRadius: '20px',
+  height: '100%',
+  position: 'relative',
+  overflow: 'hidden',
+  background: '#1e1e2f',
+  color: 'white',
+  boxShadow: '0 10px 25px rgba(0,0,0,0.4)',
+  transition: '0.3s',
+},
   overlay: {
     position: 'absolute',
     top: '20px',
