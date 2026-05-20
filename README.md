@@ -1,16 +1,52 @@
-# Memories
+# Campus Moments 🚀
 
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
+A Full Stack MERN Social Media Application built using React, Node.js, Express and MongoDB.
 
-## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+## Features
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+* Create, edit and delete posts
+* Upload images
+* Like posts
+* Responsive UI
+* REST API integration
+* MongoDB database connectivity
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+## Tech Stack
 
-### [🌟 Become a top 1% Next.js 15 developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Redux
+* Material UI
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
+## Project Structure
+
+* `client` → Frontend
+* `server` → Backend
+
+## Installation
+
+### Client
+
+```bash
+cd client
+npm install
+npm start
+```
+
+### Server
+
+```bash
+cd server
+npm install
+npm start
+```
+
+## GitHub Repository
+
+https://github.com/Suhani370/campus-moments
+
+## Author
+
+Suhani Singh Vaishnavi
